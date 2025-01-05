@@ -112,7 +112,7 @@ Just as passengers check in before boarding, in AWS IAM, you start by creating u
 
 **Users:** Each user is assigned credentials (equivalent to a boarding pass) that identify them and grant them access to your AWS account.
 
-![users](../images/iam_users.png)
+![users](../images/iam_users4.png)
 
 
 Suppose an airline manager, such as **American Airlines**, has hired several people to perform different functions at the airport.
@@ -141,7 +141,7 @@ They all received **orange cards**, which allow access to the restricted areas w
 
 Now, let's imagine that an employee from the **maintenance group is promoted** to a new role. What happens then? It's simple: **he will be part of another group**, return his orange card and **receive a new card** that will give him access to the **areas necessary for his new role.**
 
-![Group Iam](../images/GroupIam.png)
+![Group Iam](../images/GroupIam5.png)
 
 At the airport, an employee group can be compared to a set of access users. These groups allow a manager to specify permissions for a collective of employees, making it easier to manage their credentials.
 

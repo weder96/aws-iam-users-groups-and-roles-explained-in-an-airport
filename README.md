@@ -117,7 +117,7 @@ Assim como os passageiros realizam o check-in antes do embarque, no AWS IAM, voc
 **Usuários:** Cada usuário recebe credenciais (equivalente ao bilhete de embarque) que o identificam e permitem o acesso à conta da AWS.
 
 
-![users](./images/iam_users.png)
+![users](./images/iam_users4.png)
 
 Suponha que o gerente de uma companhia aérea, como a **American Airlines**, contratou diversas pessoas para desempenhar funções distintas no aeroporto. 
 Ele atribuiu **credenciais e permissões específicas a cada um**. Por exemplo, os **agentes de vendas** estão no balcão de atendimento, em contato direto com os clientes, mas nunca têm acesso à **área de embarque**. Em contraste, os **manipuladores de bagagem** possuem **autorização para entrar na área aérea**, onde podem **transportar as bagagens até as aeronaves**.
@@ -143,7 +143,7 @@ Todos eles receberam **cartões laranja**, que permitem acesso às áreas restri
 
 Agora, vamos imaginar que um funcionário do grupo de **manutenção seja promovido** a uma nova função. O que acontece então? É simples: **ele fará parte de outro grupo**, retornará seu cartão laranja e **receberá um novo cartão** que lhe dará acesso às **áreas necessárias para sua nova função.**
 
-![Group Iam](./images/GroupIam.png)
+![Group Iam](./images/GroupIam4.png)
 
 No aeroporto, **um grupo de empregados pode ser comparado a um conjunto de usuários de acesso**. Esses grupos permitem que o gerente especifique permissões para uma coletividade de funcionários, **facilitando o gerenciamento das credenciais**. 
 
